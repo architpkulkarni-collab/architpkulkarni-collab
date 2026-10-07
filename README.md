@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hey, I'm Archit 👋
 
-<!--
-**architpkulkarni-collab/architpkulkarni-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer · Product Builder
 
-Here are some ideas to get you started:
+I build modern web applications and turn ideas into real-world products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on **full-stack development, AI-powered applications, and exploring cloud & DevOps technologies.**
+
+---
+
+## 🚀 What I've Built
+
+🔹 **AirScribe** — An intelligent meeting and knowledge workspace with voice transcription, smart notes, semantic search, and AI-powered organization.
+
+🔹 **SamvedAI** — A multilingual AI assistant focused on making cooperative and legal services more accessible.
+
+🔹 **reflow** — A modern web application exploring product experiences and intelligent workflows.
+
+🔹 **Dream Directors** — A creative web application built around interactive digital experiences.
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,express" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vercel,vscode" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| **AirScribe** | AI-powered smart meeting and knowledge workspace |
+| **SamvedAI** | Multilingual AI assistant for cooperative services |
+| **reflow** | Modern web product and application |
+| **Dream Directors** | Creative web application |
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React & Next.js
+- TypeScript
+- Backend architecture
+- AI application development
+- Cloud computing
+- DevOps & deployment
+- Scalable full-stack systems
+
+---
+
+## 💡 My Approach
+
+> **Build → Break → Learn → Improve → Ship**
+
+I enjoy taking an idea from a blank screen to a working product — from designing the interface to building the backend and bringing everything together.
+
+---
+
+## 🤝 Let's Connect
+
+<p>
+  <a href="https://github.com/architpkulkarni-collab">GitHub</a> ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Always building. Always learning.</i>
+</p>
